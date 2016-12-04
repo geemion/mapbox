@@ -45,11 +45,11 @@
 			
 			function loadMap() {
 				var latLng = {
-					"lat": 28.3,
+					"lat": 30.6,
 					"lng": 104.9
 				}
 				var minZoom = 3;
-				var maxZoom = 9;
+				var maxZoom = 15;
 				//替换accessToken
 				L.mapbox.accessToken = 'pk.eyJ1IjoibWF4eW91bmciLCJhIjoiY2l2dDRoMG9mMDAzYTJvbDR5YXZqbWZ1diJ9.CNFBpkpvOPKvFE42hNL3qw';
 
@@ -58,7 +58,7 @@
 				  scrollWheelZoom: false,
 				  maxZoom: maxZoom,
 				  minZoom: minZoom
-				}).setView([latLng.lat, latLng.lng], 6);
+				}).setView([latLng.lat, latLng.lng], 8);
 				map.on('ready', function() {
 				  L.mapbox.featureLayer(geojson).addTo(map);
 				  window.setInterval(function () {
