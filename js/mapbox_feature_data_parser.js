@@ -422,7 +422,7 @@ function buildLocationList(data) {
   }
 
 	buildPoemData();
-	//buildTipData();
+	buildTipData();
 }
 function buildPoemData() {
 	var i = parserNodes.length;
