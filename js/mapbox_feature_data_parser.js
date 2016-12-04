@@ -26,7 +26,7 @@ function xhrRequest() {
 	  parserGeoJSON(xhr.responseText);
 	};
 	try {
-	  xhr.open("get", "js/mapbox_feature_geojson.js", true);
+	  xhr.open("get", "js/features.js", true);
 	  xhr.send();
 	}
 	catch (ex) {
