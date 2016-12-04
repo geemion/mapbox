@@ -53,11 +53,11 @@
 				L.mapbox.accessToken = 'pk.eyJ1IjoidjRpZiIsImEiOiJjaXNpOXZpdncwMDA0MzJwazl1amhmcGZkIn0.BoB2gK5shS0rCwTVpRJqhQ';
 
 				// 可选Map Styles：outdoors、streets、comic
-				var map = L.mapbox.map('map', 'mapbox.streets', {
+				var map = L.mapbox.map('map', 'mapbox.comic', {
 				  scrollWheelZoom: false,
 				  maxZoom: maxZoom,
 				  minZoom: minZoom
-				}).setView([latLng.lat, latLng.lng], 10);
+				}).setView([latLng.lat, latLng.lng], 6);
 				map.on('ready', function() {
 				  L.mapbox.featureLayer(geojson).addTo(map);
 				  window.setInterval(function () {
