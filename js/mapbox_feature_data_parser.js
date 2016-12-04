@@ -436,7 +436,8 @@ function buildPoemData() {
 		void main()<br> \
 		{<br> \
 		&nbsp;&nbsp; double world;<br> \
-		&nbsp;&nbsp; unsigned letter;<br> \
+		&nbsp;&nbsp; unsigned message;<br> \
+		&nbsp;&nbsp; int  ticket;<br> \
 		&nbsp;&nbsp; short stay;<br> \
 		&nbsp;&nbsp; long memories;<br> \
 		&nbsp;&nbsp; printf("I miss you.\n");<br> \
