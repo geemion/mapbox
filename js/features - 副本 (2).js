@@ -126,7 +126,7 @@ var geojson = [
                 "type": "Point"
             },
             "id": "7abbc177b3ad834944f31c2cc5e31fbe"
-        },
+        }
         {
             "type": "Feature",
             "properties": {
@@ -146,7 +146,7 @@ var geojson = [
                 "type": "Point"
             },
             "id": "3d48f69ce77934dbb9a1099e8eea1c55"
-        }
+        },
     ],
     "id": "maxyoung.29h1f9co"
 }
