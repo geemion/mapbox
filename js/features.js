@@ -26,7 +26,7 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwablvkd0",
-                "title": "绵阳-我成长的地方",
+                "title": "绵阳",
                 "details": "那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
                 "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/my.jpg' alt='forbunny'>那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
                 "marker-size": "medium",
@@ -106,7 +106,7 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwaettdx0",
-                "title": "宜宾-无意到达",
+                "title": "宜宾",
                 "details": "长江边美丽的小城，成长了你",
                 "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/yb.jpg' alt='forbunny'>长江边美丽的小城，成长了你",
                 "marker-size": "medium",
