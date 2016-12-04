@@ -82,6 +82,46 @@ var geojson = [
             },
             "id": "36a0aefb191b6e0d83993fe861426c95"
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-iwabwtph4",
+                "title": "九寨沟-最美的地方留给最珍惜的人",
+                "details": "世界那么大，我们一起去看看，周游世界，然后记录下我们的足迹地图",
+                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/jz.jpg' alt='forbunny'>世界那么大，我们一起去看看，周游世界，然后记录下我们的足迹地图",
+                "marker-size": "medium",
+                "marker-color": "#ffffff",
+                "marker-symbol": "park"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.903198,
+                    33.128351
+                ],
+                "type": "Point"
+            },
+            "id": "7abbc177b3ad834944f31c2cc5e31fbe"
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-iwaettdx0",
+                "title": "宜宾-你成长的地方",
+                "details": "美丽的长江城市，成长了你",
+                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/yb.jpg' alt='forbunny'>美丽的长江城市，成长了你",
+                "marker-size": "medium",
+                "marker-color": "#ffffff",
+                "marker-symbol": "monument"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.620056,
+                    28.760436
+                ],
+                "type": "Point"
+            },
+            "id": "3d48f69ce77934dbb9a1099e8eea1c55"
+        },
         
         {
             "type": "Feature",
@@ -106,46 +146,6 @@ var geojson = [
                 "type": "LineString"
             },
             "id": "5f0533b28d7e7013a625a21beeab9a7a"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "marker-iwabwtph4",
-                "title": "九寨沟-最美的地方留给最珍惜的人",
-                "details": "世界那么大，我们一起去看看，周游世界，然后记录下我们的足迹地图",
-                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/jz.jpg' alt='forbunny'>世界那么大，我们一起去看看，周游世界，然后记录下我们的足迹地图",
-                "marker-size": "medium",
-                "marker-color": "#ffffff",
-                "marker-symbol": "park"
-            },
-            "geometry": {
-                "coordinates": [
-                    103.903198,
-                    33.128351
-                ],
-                "type": "Point"
-            },
-            "id": "7abbc177b3ad834944f31c2cc5e31fbe"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "marker-iwaettdx0",
-                "title": "宜宾-你成长的地方",
-                "details": "美丽的长江城市，成长了你",
-                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/yb.jpg' alt='forbunny'>美丽的长江城市，成长了你",
-                "marker-size": "medium",
-                "marker-color": "#ffffff",
-                "marker-symbol": "monument"
-            },
-            "geometry": {
-                "coordinates": [
-                    104.620056,
-                    28.760436
-                ],
-                "type": "Point"
-            },
-            "id": "3d48f69ce77934dbb9a1099e8eea1c55"
         }
     ],
     "id": "maxyoung.29h1f9co"
