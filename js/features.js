@@ -28,7 +28,7 @@ var geojson = [
                 "id": "marker-iwablvkd0",
                 "title": "绵阳-我成长的地方",
                 "details": "那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
-                "description": "<http://7xkam4.com1.z0.glb.clouddn.com/my.jpg' alt='forbunny'>那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
+                "description": "<img src=http://7xkam4.com1.z0.glb.clouddn.com/my.jpg' alt='forbunny'>那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
                 "marker-size": "medium",
                 "marker-color": "#ffffff",
                 "marker-symbol": "building"
