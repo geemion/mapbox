@@ -6,7 +6,7 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwabqdez2",
-                "title": "泸州-你在的地方",
+                "title": "泸州-你在这",
                 "details": "那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
                 "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/xt.jpg' alt='forbunny'>那一年我们都不知道对方的存在，若干年后对彼此许下一生的承诺",
                 "marker-size": "medium",
@@ -46,9 +46,9 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwabywy35",
-                "title": "成都-我在的地方",
-                "details": "400公里的距离，短暂的相聚后留下的只是回忆，但是彼此的心连在一起",
-                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/cd.jpg' alt='forbunny'>1035公里的距离，短暂的相聚后留下的只是回忆，但是彼此的心连在一起",
+                "title": "成都-我在这",
+                "details": "300公里的距离，短暂的相聚后留下的只是回忆，但是彼此的心连在一起",
+                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/cd.jpg' alt='forbunny'>300公里的距离，短暂的相聚后留下的只是回忆，但是彼此的心连在一起",
                 "marker-size": "medium",
                 "marker-color": "#ffffff",
                 "marker-symbol": "religious-jewish"
@@ -66,7 +66,7 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwabs9mj3",
-                "title": "重庆-第一次出去玩的地方",
+                "title": "重庆-犹忆当年一相逢, 万世此心与君同",
                 "details": "风吹起你的头发，一张棕色的小网撒满我的面颊，我一生也不想挣脱",
                 "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/cq.jpg' alt='forbunny'>风吹起你的头发，一张棕色的小网撒满我的面颊，我一生也不想挣脱",
                 "marker-size": "medium",
@@ -106,9 +106,9 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwaettdx0",
-                "title": "宜宾-你成长的地方",
-                "details": "美丽的长江城市，成长了你",
-                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/yb.jpg' alt='forbunny'>美丽的长江城市，成长了你",
+                "title": "宜宾-无意到达",
+                "details": "长江边美丽的小城，成长了你",
+                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/yb.jpg' alt='forbunny'>长江边美丽的小城，成长了你",
                 "marker-size": "medium",
                 "marker-color": "#ffffff",
                 "marker-symbol": "monument"
