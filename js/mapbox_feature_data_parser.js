@@ -436,13 +436,12 @@ function buildPoemData() {
 		void main()<br> \
 		{<br> \
 		&nbsp;&nbsp; double world;<br> \
-		&nbsp;&nbsp; unsigned message;<br> \
-		&nbsp;&nbsp; int  ticket;<br> \
+		&nbsp;&nbsp; unsigned letter;<br> \
 		&nbsp;&nbsp; short stay;<br> \
 		&nbsp;&nbsp; long memories;<br> \
 		&nbsp;&nbsp; printf("I miss you.\n");<br> \
 		}<br>';
-	var chStr = '两个人的世界，一封没有署名的信，短暂的重逢后，留下的只是回忆，我想你，我爱的人';
+	var chStr = '两个人的世界，一封没有署名的信，短暂的重逢后，留下久久的回忆，我想你，我爱的人';
 	// Create a new div with the class 'details' for each store
 	// and fill it with the city and phone number
 	var details = listing.appendChild(document.createElement('div'));
