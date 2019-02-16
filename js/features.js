@@ -146,8 +146,8 @@ var geojson = [
             "type": "Feature",
             "properties": {
                 "id": "marker-iwaettdx0",
-                "title": "深圳",
-                "details": "工作半年，无限思念",
+                "title": "深圳-来了又走了",
+                "details": "半年，无限思念",
                 "description": "<img src='/img/sz.jpg' alt='forbunny'>鹅厂，再见！",
                 "marker-size": "medium",
                 "marker-color": "#f86767",
