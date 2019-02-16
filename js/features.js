@@ -122,7 +122,26 @@ var geojson = [
             },
             "id": "3d48f69ce77934dbb9a1099e8eea1c55"
         },
-        
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-iwaettdx0",
+                "title": "香港",
+                "details": "香港美好的回忆，感受资本主义",
+                "description": "<img src='http://7xkam4.com1.z0.glb.clouddn.com/yb.jpg' alt='forbunny'>长江边美丽的小城，成长了你",
+                "marker-size": "medium",
+                "marker-color": "#f86767",
+                "marker-symbol": "monument"
+            },
+            "geometry": {
+                "coordinates": [
+                    114.10000,
+                    22.20000
+                ],
+                "type": "Point"
+            },
+            "id": "3d48f69ce77934dbb9a1099e8eea1c55"
+        },
         {
             "type": "Feature",
             "properties": {
