@@ -155,8 +155,8 @@ var geojson = [
             },
             "geometry": {
                 "coordinates": [
-                    113.554680,
-                    22.323643
+                    113.930023,
+                    22.542602
                 ],
                 "type": "Point"
             },
@@ -175,8 +175,8 @@ var geojson = [
             },
             "geometry": {
                 "coordinates": [
-                    108.554680,
-                    33.760436
+                    108.951416,
+                    34.284453
                 ],
                 "type": "Point"
             },
